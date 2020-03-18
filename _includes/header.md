@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [Fishel CS1]({{ "/" | relative_url }})
 
-Harvard University\\
+HSE High School\\
 2019–2020
